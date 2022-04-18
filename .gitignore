@@ -128,3 +128,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 *aoe2record
+*tsv
+recs
+*html
